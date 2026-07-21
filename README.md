@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -33,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/Aaryansoni01/Java-LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
